@@ -6,11 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="be5c4b45-ec49-4f5f-9215-2bef0e4ac6f2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jango/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/jango/blog/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jango/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/jango/blog/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jango/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/jango/blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jango/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/jango/blog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jango/jango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/jango/jango/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/src/serviceWorker.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +92,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/blog/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
               <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
@@ -194,6 +194,12 @@
               <item name="~/Desktop/django" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="blog" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
+            <path>
+              <item name="django" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Desktop/django" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="blog" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -206,6 +212,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blog" />
+      <recent name="$PROJECT_DIR$/blog/src" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/jango" />
     </key>
@@ -237,9 +245,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="928" y="0" width="752" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28317374" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28317374" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -250,7 +257,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.25510204" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.25510204" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32959184" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -396,7 +403,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/blog/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
