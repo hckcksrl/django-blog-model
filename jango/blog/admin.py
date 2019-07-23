@@ -7,7 +7,8 @@ class PostAdmin(admin.ModelAdmin):
     list_display = (
         'title',
         'content',
-        'date_posted',
+        'created_at',
+        'updated_at',
         'author'
     )
     list_display_links = (
